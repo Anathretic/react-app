@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "name": "Miss Jimmy Murphy",
+      "id": 1
+    },
+    {
+      "name": "Elaine Rohan",
+      "id": 2
+    },
+    {
+      "name": "Peggy Medhurst",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Luxurious Soft Table",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Metal Fish",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Cotton Computer",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Cotton Fish",
+      "id": 20
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6519",
+      "id": 1
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=47212",
+      "id": 2
+    },
+    {
+      "albumId": 18,
+      "url": "https://loremflickr.com/150/150/abstract?lock=49461",
+      "id": 3
+    }
+  ]
+}
